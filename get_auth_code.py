@@ -12,7 +12,7 @@ callback_url = input(str(r'Enter Your Callback Url: eg. http://localhost:8080/ :
 consumer_key = input(str(   'Enter Your Consumer Key : '))
 
 #r"C:\Users\YOUR USERNAME\Desktop\chromedriver_win32\chromedriver"
-path_to_chromedriver = input('Enter Path to Chromedriver: REMEMBER /chromedriver at the end')
+path_to_chromedriver = input('Enter Path to Chromedriver: REMEMBER \chromedriver at the end')
 
 # set the executable path to the Chrome Driver found at https://chromedriver.chromium.org/. 
 executable_path = {'executable_path': path_to_chromedriver}
