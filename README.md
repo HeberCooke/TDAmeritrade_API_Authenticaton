@@ -6,7 +6,7 @@
 ---------------------
 >* From the console you will be prompted to enter your callback_URL. This should match exactly the calback you have created for your app. eg. http://localhost:8080/
 >* Next enter the consumer key found in your app under Keys. 
->* Finaly enter the path where you installed the chrome driver. **This must match exact**. Dont forget to add /chromedriver to the end. eg. C:\Users\\<YOUR_USER>\Desktop\chromedriver_32\chromedriver
+>* Finaly enter the path where you installed the chrome driver. **This must match exact**. Dont forget to add \chromedriver to the end. eg. C:\Users\\<YOUR_USER>\Desktop\chromedriver_32\chromedriver
 >* After entering these, fill out the TD Ameritrade login.
 ----------------------
 <img src= "Read_me_images/login.png">
